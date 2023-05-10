@@ -1,0 +1,6 @@
+name: SkyDiscordWhitelist
+version: '${project.version}'
+main: br.com.skyplugins.skydiscordwhitelist.SkyPlugins
+authors: [ uauLight ]
+description: Plugins de whitelist através do discord.
+website: https://skyplugins.com.br/

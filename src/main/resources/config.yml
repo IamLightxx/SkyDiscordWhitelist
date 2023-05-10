@@ -1,0 +1,37 @@
+################################################################################################################################
+#   ___________          ________  .__                              ._____      __.__    .__  __         .__  .__         __   #
+#  /   _____|  | _____.__\______ \ |__| ______ ____  ___________  __| _/  \    /  |  |__ |___/  |_  ____ |  | |__| ______/  |_ #
+#  \_____  \|  |/ <   |  ||    |  \|  |/  ____/ ___\/  _ \_  __ \/ __ |\   \/\/   |  |  \|  \   ___/ __ \|  | |  |/  ___\   __\#
+#  /        |    < \___  ||    `   |  |\___ \\  \__(  <_> |  | \/ /_/ | \        /|   Y  |  ||  | \  ___/|  |_|  |\___ \ |  |  #
+# /_______  |__|_ \/ ____/_______  |__/____  >\___  \____/|__|  \____ |  \__/\  / |___|  |__||__|  \___  |____|__/____  >|__|  #
+#         \/     \/\/            \/        \/     \/                 \/       \/       \/              \/             \/       #
+#                                                                                                                              #
+#                                                 Desenvolvido por uauLight                                                    #
+#                                                Copyright SkyPlugins - 2023                                                   #
+################################################################################################################################
+
+# Opções de atividade do bot:
+# WATCHING - ASSISTINDO
+# COMPETING - COMPETINDO
+# STREAMING - AO VIVO
+# LISTENING - OUVINDO
+
+# url - Link da live ou video.
+
+# Opções de status do bot:
+# ONLINE - DISPONÍVEL
+# IDLE - AUSENTE
+# DO_NOT_DISTURB - NÃO PERTURBAR
+# INVISIBLE - INVISÍVEL
+
+# Usar sempre os nomes em ingles!!
+
+Discord:
+  bot:
+    token: 'MTA2NzIyNTgxOTA1Mjc2OTM0MA.GQBafR.r355-g5_hg6rftR9hr8ptjZWuvbYbFVusiArBA' # Token do Bot
+    activity: WATCHING # Deixar apenas um ou irá bugar.
+    info: 'no seu servidor.'
+    # Caso escolha STREAMING, coloque o nome e o link abaixo.
+    name_stream: ''
+    url: ''
+    status: ONLINE # Deixar apenas um ou irá bugar.
